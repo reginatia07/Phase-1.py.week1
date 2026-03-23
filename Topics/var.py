@@ -11,3 +11,5 @@ is_student = True
 
 print(f"My name is{name}")
 print(f"My age is {age} years old")
+print(f"My height is {height} metres")
+print(f"I'm a student? {is_student}")
